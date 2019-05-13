@@ -17,9 +17,7 @@ title: iotec GmbH
 email: info@iotec-gmbh.de
 description: >- # this means to ignore newlines until "baseurl:"
   Als Dienstleister mit breiter Erfahrung in der Entwicklung und Produktion von Elektronik und Sensorik,
-  hat sich die iotec GmbH auf schnelle Prototypenentwicklung im IOT-Bereich spezialisiert.
-  Dabei legt iotec Wert auf eine ideenreiche und effiziente Umsetzung der Kundenwünsche,
-  unter Bereitstellung einer großen Auswahl an Sensor- und Funktechnologien.
+  hat sich die iotec GmbH auf schnelle und innovative Prototypenentwicklung im IOT-Bereich spezialisiert.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  iotec-gmbh

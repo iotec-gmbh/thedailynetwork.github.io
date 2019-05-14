@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# The Daily Network
-
 The simple Solution to keep your customers and single day visitors connected to the World.
 
 ![The Daily Network](/assets/the-daily-network.jpg)

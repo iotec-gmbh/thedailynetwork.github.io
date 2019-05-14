@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: The Daily Network
 ---
-
-# The Daily Network
 
 The simple Solution to keep your customers and single day visitors connected to the World.
 

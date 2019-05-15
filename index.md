@@ -6,28 +6,30 @@ layout: home
 title: The Daily Network
 ---
 
-The simple solution to keep your customers and single day visitors connected to the World.
+The simple solution to provide secure internet access to your customers and visitors.
 
 ![The Daily Network](/assets/the-daily-network.jpg)
 
 ## Make it easy to connect
 
-Typing cryptic passwords in your smartphone or laptop is tiring and time consuming.
-One single mistype and the whole procedure has to be repeated. 
+Typing secure passwords into your smartphone or laptop is tiring and time consuming. You have to type long, cryptic and immemorable sequences of letters and numbers. One typo and you have to repeat the whole procedure.
 
-**The Daily Network** makes it much more easy to connect to, especially for smartphones.
-Simply take a photo of the QR-Code on the Screen and  automatically connect to the WiFi.
+**The Daily Network** makes connecting a lot easier for you. Simply use your QR-scanner to take a photo of the code on the screen and your phone will automatically connect.
 
-And even if you type in the password by your own.
-Since we change the password every day, we can use smaller password lengths without the fear of weakening our security.
+Even if you have to type in the password on a laptop - since we change the password every day, we can use smaller password lengths without the fear of weakening our security.
+
 You will be finished in a flash.
+
+## Reduce organisational overhead
+
+Even for you **The Daily Network** is easy to set-up configure. You simply connect it to your local internet connection, via cable or via WiFi. That's it.
 
 ## You don't want your guests to overstay 
 
-Having guests is nice and you want to provide a pleasant stay for them by providing free WiFi. But you also don't want your guests to stay forever - especially in your WiFi. **The Daily Network** provides you with a simple way to manage use of your WiFi. By simply changing the password in a regular interval (24 hours, but configurable to your needs), access to your internet connection is automatically revoked for anyone who does not have access to the sign in your conference room.
+Having guests is nice and you want to provide a pleasant stay for them by providing free WiFi. But you also don't want your guests to stay forever - _especially_ in your WiFi. **The Daily Network** provides you with a simple way to manage use of your WiFi. By simply changing the password in a regular interval (24 hours, but configurable to your needs), access to your internet connection is automatically revoked for anyone who does not have access to the sign in your conference room.
 
-## Separate the Guest Network
+## Separate the guest network from your local network
 
-Guests and Customers should be allowed to access the Internet, but not your personal services and assests.
-Therefore **The Daily Network** separates the guest network from your own private one.
+Guests and customers should be allowed to access the internet, but not your personal services and assests.
+Therefore **The Daily Network** separates the guest network from your company's network and only provides access to the internet.
 

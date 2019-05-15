@@ -22,11 +22,15 @@ You will be finished in a flash.
 
 ## Reduce organisational overhead
 
-Even for you **The Daily Network** is easy to set-up configure. You simply connect it to your local internet connection, via cable or via WiFi. That's it.
+Even for you **The Daily Network** is easy to set-up configure. You simply connect it to your local internet connection, via cable or via WiFi. 
+
+That's it.
 
 ## You don't want your guests to overstay 
 
-Having guests is nice and you want to provide a pleasant stay for them by providing free WiFi. But you also don't want your guests to stay forever - _especially_ in your WiFi. **The Daily Network** provides you with a simple way to manage use of your WiFi. By simply changing the password in a regular interval (24 hours, but configurable to your needs), access to your internet connection is automatically revoked for anyone who does not have access to the sign in your conference room.
+Having guests is nice and you want to provide a pleasant stay for them by providing free WiFi. But you also don't want your guests to stay forever - _especially_ in your WiFi. 
+
+**The Daily Network** provides you with a simple way to manage use of your WiFi. By simply changing the password in a regular interval (24 hours, but configurable to your needs), access to your internet connection is automatically revoked for anyone who does not have access to the sign in your conference room.
 
 ## Separate the guest network from your local network
 

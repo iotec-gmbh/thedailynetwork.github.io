@@ -6,7 +6,7 @@ layout: home
 title: The Daily Network
 ---
 
-The simple Solution to keep your customers and single day visitors connected to the World.
+The simple solution to keep your customers and single day visitors connected to the World.
 
 ![The Daily Network](/assets/the-daily-network.jpg)
 
@@ -22,12 +22,12 @@ And even if you type in the password by your own.
 Since we change the password every day, we can use smaller password lengths without the fear of weakening our security.
 You will be finished in a flash.
 
-## Don't keep Guests forever
+## You don't want your guests to overstay 
 
-Only because your customers and guests are allowed to connect once to your network does not mean that they can keep this connection forever.
-Most guests are only staying for a day, so **The Daily Network** changes its password on a daily manner to revoke the access after 24 hours.
+Having guests is nice and you want to provide a pleasant stay for them by providing free WiFi. But you also don't want your guests to stay forever - especially in your WiFi. **The Daily Network** provides you with a simple way to manage use of your WiFi. By simply changing the password in a regular interval (24 hours, but configurable to your needs), access to your internet connection is automatically revoked for anyone who does not have access to the sign in your conference room.
 
 ## Separate the Guest Network
 
 Guests and Customers should be allowed to access the Internet, but not your personal services and assests.
 Therefore **The Daily Network** separates the guest network from your own private one.
+
